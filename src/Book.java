@@ -5,7 +5,6 @@ public class Book {
     double price;
     double discount;
 
-
     public Book() {
         this.title = "Unknown";
         this.author = "Unknown";

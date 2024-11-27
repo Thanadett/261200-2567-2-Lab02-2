@@ -9,6 +9,6 @@ public class Main {
         hp1Book.updatePrice(32000.00);
         hp1Book.displayDetails();
 
-        hp1Book.applyDiscount(15);
+        hp1Book.applyDiscount(150);
     }
 }
