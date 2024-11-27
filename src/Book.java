@@ -3,7 +3,6 @@ public class Book {
     String title;
     String author;
     double price;
-    double discount;
 
     public Book() {
         this.title = "Unknown";
